@@ -1,8 +1,0 @@
-python-telegram-bot==20.7
-APScheduler==3.6.3
-cachetools==4.2.2
-certifi==2025.1.31
-pytz==2025.2
-six==1.17.0
-tzlocal==5.3.1
-
